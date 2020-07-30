@@ -46,7 +46,6 @@ void imprimir(int a[],int n)
 }
 
 
-
 void burbuja(int a[],int n)
 {
     int i,j,aux;
